@@ -52,4 +52,3 @@
 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/AllmirSantos/AllmirSantos/blob/output/github-contribution-grid-snake.svg)
